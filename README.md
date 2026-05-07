@@ -1,25 +1,32 @@
-# Hi there 👋 I'm Dorjoy Das
+<h1 align="center">Hi 👋, I'm Dorjoy Das</h1>
 
-<div align="center">
+<h3 align="center">
+A passionate Software Engineer from Bangladesh 🇧🇩
+</h3>
 
-### 🚀 Software Engineer | Web Application Developer | Founder of <a href="https://www.durjoysoft.com" target="_blank">Durjoysoft</a>
+<p align="center">
+Web Application Developer • Founder of 
+<a href="https://www.durjoysoft.com" target="_blank">Durjoysoft</a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Application+Developer;Building+Modern+%26+Scalable+Applications;Laravel+%7C+PHP+%7C+JavaScript+Developer;Always+Learning+New+Technologies+🚀" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Application+Developer;Laravel+%7C+PHP+%7C+JavaScript+Developer;Building+Modern+and+Scalable+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently building a modern **E-Commerce Web Application**
-- 🌱 Learning **JAVA & Advanced Backend Architecture**
-- 💼 Founder & Lead Developer at **Durjoysoft**
-- 💬 Ask me about **PHP, Laravel, MySQL, APIs & Web Apps**
-- ⚡ Fun fact: **PHP is Never Dead 😄**
-- 🇧🇩 Based in **Bangladesh**
+I am a passionate web application developer focused on building practical, scalable, and user-friendly digital solutions.
+
+- 🔭 Currently working on an **E-Commerce Web Application**
+- 🌱 Currently learning **Java**
+- 💼 Founder at **Durjoysoft**
+- 💬 Ask me about **PHP, Laravel, MySQL, APIs & JavaScript**
+- ⚡ Fun fact: **PHP is not dead, bad code is 😄**
+- 🇧🇩 Based in Bangladesh
 
 <br><br>
 
@@ -27,10 +34,10 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/durjoyd390/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/+8801999737584" target="_blank">
@@ -46,92 +53,93 @@
 </a>
 
 <a href="https://www.durjoysoft.com" target="_blank">
-<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Languages & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,mysql,mariadb,postgresql,python,java,c,cpp,androidstudio,git,github,vscode&perline=9" />
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,mysql,mariadb,postgresql,python,java,c,cpp,androidstudio,git,github,vscode" />
+</p>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I Do
 
 ```txt
-⚡ Building scalable web applications
-⚡ Improving UI/UX experience
-⚡ Learning Java & system design
-⚡ Exploring automation & APIs
+✔ Full Stack Web Development
+✔ Backend Development
+✔ Database Design
+✔ API Integration
+✔ Admin Dashboard Development
+✔ Business Automation Solutions
+✔ Modern UI/UX Implementation
 ```
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=durjoyd390&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=durjoyd390&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=durjoyd390&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durjoyd390&layout=compact&theme=github_dark&hide_border=true" />
 
-</div>
+</p>
 
-<div align="center">
+---
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durjoyd390&layout=compact&theme=tokyonight&hide_border=true"/>
+# 🔥 GitHub Streak
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=durjoyd390&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=durjoyd390&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=durjoyd390&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-# 🔥 Contribution Graph
+# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=durjoyd390&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durjoyd390&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 # 😂 Dev Meme
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/f50a7cb3-45d3-4399-90d6-72c1852d4b62" width="350px"/>
-
-</div>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f50a7cb3-45d3-4399-90d6-72c1852d4b62" width="350px" />
+</p>
 
 ---
 
 # ☕ Support Me
 
-<div align="center">
-
+<p align="center">
 <a href="https://shop.bkash.com/durjoysoft01575555722/paymentlink" target="_blank">
 <img src="https://github.com/durjoyd390/Currency-Rate-Converter-Java/assets/73610695/544e17d2-759f-4894-998c-2267a5fb0eb3" width="420"/>
 </a>
+</p>
 
-### 💙 Thanks for visiting my profile!
+---
 
-<img src="https://komarev.com/ghpvc/?username=durjoyd390&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=durjoyd390&label=Profile%20Views&color=3b82f6&style=for-the-badge" />
+</p>
 
-</div>
+<p align="center">
+💙 Thanks for visiting my profile!
+</p>
