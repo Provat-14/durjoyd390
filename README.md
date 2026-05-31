@@ -271,6 +271,7 @@ currently_learning: Java
 ✔ Admin Dashboard
 ✔ Custom PHP/Laravel System
 ✔ REST API Integration
+✔ WordPress
 ```
 
 </td>
